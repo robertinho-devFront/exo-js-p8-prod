@@ -11,7 +11,7 @@ function convertToBinary() {
         return;
     }
 
-    // Convertir la valeur en nombre entier, ceci est ceci
+    // Convertir la valeur en nombre entier, 
     const decimalNumber = parseInt(decimalInput, 10);
 
     // Convertir le nombre décimal en binaire
